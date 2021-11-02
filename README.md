@@ -1,6 +1,4 @@
-# Profile
-
-## Education
+## Profile
 ## Interest
 ## Project
 ## Certification & Award
