@@ -12,7 +12,7 @@
 
 ## Interest
 
-**Machine Learning, Recommendation System, Text mining, Natural Language Processing**
+**CRM, Machine Learning, Recommendation System, Text mining, Natural Language Processing**
 
 
 
