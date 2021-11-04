@@ -12,7 +12,7 @@
 
 ## Interest
 
-Machine Learning, Recommendation System, Text mining, Natural Language Processing
+**Machine Learning, Recommendation System, Text mining, Natural Language Processing**
 
 
 
