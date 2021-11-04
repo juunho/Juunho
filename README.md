@@ -37,7 +37,7 @@
 
 *(Sep. 2020)*&nbsp;&nbsp;&nbsp;서울특별시 빅데이터 캠퍼스 공모전 최우수상
 
-## Conference
+## Conference & Public
 
 ## Certification
 
