@@ -6,7 +6,7 @@
 
 ## Education
 
-*(Mar. 2013 ~ Aug. 2020)*&nbsp;&nbsp;&nbsp;**Kookmin University**, Department of Japanese Studies, Management Information Systems
+*(Mar. 2013 ~ Aug. 2020)*&nbsp;&nbsp;&nbsp;**Kookmin University**, Japanese Studies, Management Information Systems
 </br>
 </br>
 
