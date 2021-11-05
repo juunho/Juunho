@@ -47,9 +47,9 @@
 
 ## Certification
 
-*(Dec.2020)*&nbsp;&nbsp;&nbsp;Advanced Data Analytics Semi-Professional (ADsP)
+*(Dec.2020)*&nbsp;&nbsp;&nbsp; Advanced Data Analytics Semi-Professional (ADsP)
 
-*(Jun.2020)*&nbsp;&nbsp;&nbsp;SQL Developer (SQLD)
+*(Jun.2020)*&nbsp;&nbsp;&nbsp;&nbsp; SQL Developer (SQLD)
 </br>
 </br>
 
