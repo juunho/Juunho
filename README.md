@@ -18,8 +18,9 @@
 
 ## Project
 
-*(Aug. 2021 ~ Present)*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;수원시 인구 예측 모형&nbsp;&nbsp;::&nbsp;&nbsp;시계열 분석과 코호트 모형을 결합한 수원시 행정동 장래 인구 추계
-
+*(Aug. 2021 ~ Present)*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;수원시 인구 예측 모형&nbsp;&nbsp; <br>
+　　　　　　　　　　　　::&nbsp;&nbsp;시계열 분석과 코호트 모형을 결합한 수원시 행정동 장래 인구 추계
+            
 *(Jul. 2021 ~ Aug. 2021)*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;수출액 예측을 통한 수출 유망 국가 및 품목 추천 <br>
 　　　　　　　　　　　　::&nbsp;&nbsp;앙상블 모형과 클러스터링을 활용한 기업 선호도 반영 추천 솔루션
 
@@ -41,7 +42,7 @@
 
 ## Conference & Journal
 
-*(Dec. 2021)*&nbsp;&nbsp;&nbsp; **한국지능정보시스템학회** 추계학술대회, 앙상블 모델 개발을 통한 수출액 예측과 클러스터링 기반 유망 시장 추천
+*(Dec. 2021)*&nbsp;&nbsp;&nbsp; **한국지능정보시스템학회**, 앙상블 모델 개발을 통한 수출액 예측과 클러스터링 기반 유망 시장 추천
 </br>
 </br>
 
