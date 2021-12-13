@@ -19,7 +19,7 @@
 
 ## Project
 
-*(Aug. 2021 ~ Present)*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;수원시 인구 예측 모형&nbsp;&nbsp; <br>
+*(Aug. 2021 ~ Nov. 2021)*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;수원시 인구 예측 모형&nbsp;&nbsp; <br>
 　　　　　　　　　　　　::&nbsp;&nbsp;시계열 분석과 코호트 모형을 결합한 수원시 행정동 장래 인구 추계
             
 *(Jul. 2021 ~ Aug. 2021)*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;수출액 예측을 통한 수출 유망 국가 및 품목 추천 <br>
