@@ -1,6 +1,6 @@
 ## Career
 
-*(Feb. 2021 ~ Feb. 2022)*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Mobigen**, Data Analyst (Senior Manager)
+*(Feb. 2021 ~ Feb. 2022)*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Mobigen**, Data Analyst (Senior Manager)
 </br>
 </br>
 
