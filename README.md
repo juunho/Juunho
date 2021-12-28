@@ -1,10 +1,12 @@
 ## Career
 
-*(Feb. 2021 ~ Feb. 2022)*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Mobigen**, Data Analyst (Senior Manager)
+*(Feb. 2021 ~ Feb. 2022)*&nbsp;&nbsp;&nbsp;&nbsp;**Mobigen**, Data Analyst (Senior Manager)
 </br>
 </br>
 
 ## Education
+*(Mar. 2013 ~ Aug. 2020)*&nbsp;&nbsp;&nbsp;**Yonsei University**,
+
 
 *(Mar. 2013 ~ Aug. 2020)*&nbsp;&nbsp;&nbsp;**Kookmin University**, Departmanet of Japanese Studies <br>
 　　　　　　　　　　　　　　　　　　　　&nbsp;&nbsp;&nbsp;School of Management Information Systems
