@@ -9,7 +9,7 @@
 
 
 *(Mar. 2013 ~ Aug. 2020)*&nbsp;&nbsp;&nbsp;**Kookmin University**, Department of Japanese Studies <br>
-　　　　　　　　　　　　　　　　　　　　&nbsp;&nbsp;&nbsp;School of Management Information Systems
+　　　　　　　　　      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Kookmin University**, School of Management Information Systems
 </br>
 </br>
 
