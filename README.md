@@ -15,15 +15,10 @@
 
 ## Interest
 
-**CRM, Machine Learning, Recommender System, Text mining**
+**CRM, Mixed-method, Recommender System, Anomaly Detection**
 </br>
 </br>
 
-## Project
-
-
-</br>
-</br>
 
 ## Awards & Honor
 *(Jan. 2022)*&nbsp;&nbsp;&nbsp;&nbsp; 서울시 산업·사회 혁신 프로젝트 공모전 최우수상
