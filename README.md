@@ -1,8 +1,3 @@
-## Career
-
-*(Feb. 2021 ~ Feb. 2022)*&nbsp;&nbsp;&nbsp;**Mobigen**, Data Analyst (Senior Manager)
-</br>
-</br>
 
 ## Education
 *(Mar. 2022 ~ Present)*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Yonsei University**, M.S. in Information Systems, Big Data Analytics
@@ -13,12 +8,22 @@
 </br>
 </br>
 
+## Career
+
+*(Feb. 2021 ~ Feb. 2022)*&nbsp;&nbsp;&nbsp;**Mobigen**, Data Analyst (Senior Manager)
+</br>
+</br>
+
 ## Interest
 
 **CRM, Mixed-method, Recommender System, Anomaly Detection**
 </br>
 </br>
 
+## Projects
+[*Completed Projects*](https://github.com/juunho/Completed_Projects)
+</br>
+</br>
 
 ## Awards & Honor
 *(Jan. 2022)*&nbsp;&nbsp;&nbsp;&nbsp; 서울시 산업·사회 혁신 프로젝트 공모전 최우수상
