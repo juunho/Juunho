@@ -26,9 +26,9 @@
 </br>
 
 ## Awards & Honor
-*(Jan. 2022)*&nbsp;&nbsp;&nbsp;&nbsp; 서울시 산업·사회 혁신 프로젝트 공모전 최우수상
+*(Jun. 2022)*&nbsp;&nbsp;&nbsp;&nbsp; 한국경영정보학회 2022년 춘계통합학술대회 아이디어 공모전 최우수상 
 
-*(Oct. 2021)*&nbsp;&nbsp;&nbsp;&nbsp; 2021년도 경기도 데이터 정책 우수사례 우수상 (수원시청)
+*(Jan. 2022)*&nbsp;&nbsp;&nbsp;&nbsp; 서울시 산업·사회 혁신 프로젝트 공모전 최우수상
 
 *(Aug. 2021)*&nbsp;&nbsp;&nbsp; 제 9회 공공데이터 활용 비즈니스 아이디어 공모전 빅데이터 분석 부문 대상
 
