@@ -52,7 +52,7 @@
 </br>
 
 
-## Extracurricular Activity
+## Experience
 *(Aug. 2020 ~ Dec. 2020)*&nbsp;&nbsp;&nbsp;**공공 빅데이터 인턴**, 수원시청 정보통신과 빅데이터팀
 
 *(Apr. 2013 ~ May. 2015)*&nbsp;&nbsp;&nbsp;&nbsp;**Kookmin University**, Kookmin Computer Club (KCC)
