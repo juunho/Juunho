@@ -26,7 +26,7 @@
 </br>
 
 ## Awards & Honor
-*(Jun. 2022)*&nbsp;&nbsp;&nbsp;&nbsp; 한국경영정보학회 2022년 춘계통합학술대회 아이디어 공모전 최우수상 
+*(Jun. 2022)*&nbsp;&nbsp;&nbsp;&nbsp; 한국경영정보학회 춘계통합학술대회 아이디어 공모전 최우수상 
 
 *(Jan. 2022)*&nbsp;&nbsp;&nbsp;&nbsp; 서울시 산업·사회 혁신 프로젝트 공모전 최우수상
 
