@@ -16,7 +16,7 @@
 
 ## Interest
 
-**CRM, Mixed-method, Recommender System, Anomaly Detection**
+**Causal Inference, Text Mining, Recommender System, Anomaly Detection**
 </br>
 </br>
 
