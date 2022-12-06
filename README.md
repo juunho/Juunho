@@ -16,7 +16,7 @@
 
 ## Interest
 
-**Causal Inference, Text Mining, Recommender System, Anomaly Detection**
+**Causal Inference, Recommender System, Anomaly Detection**
 </br>
 </br>
 
