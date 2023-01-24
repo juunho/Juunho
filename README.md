@@ -4,8 +4,8 @@
 　　　　　　　　　      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**- Digital Service Lab** ([DSLAB](https://gsiyonsei.wixsite.com/dslab))
 
 
-*(Mar. 2013 ~ Aug. 2020)*&nbsp;&nbsp;&nbsp;**Kookmin University**, Department of Japanese Studies <br>
-　　　　　　　　　      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Kookmin University**, School of Management Information Systems
+*(Mar. 2013 ~ Aug. 2020)*&nbsp;&nbsp;&nbsp;**Kookmin University**, Bachelor of International Studies  <br>
+　　　　　　　　　      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Kookmin University**, Bachelor of Management Information Systems
 </br>
 </br>
 
