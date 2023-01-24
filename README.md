@@ -25,6 +25,13 @@
 </br>
 </br>
 
+## Conference & Journal
+
+*(Dec. 2021)*&nbsp;&nbsp;&nbsp; **한국지능정보시스템학회**, 추계학술대회 <br>
+　　　　　　&nbsp;::&nbsp;&nbsp;앙상블 모델 개발을 통한 수출액 예측과 클러스터링 기반 유망 시장 추천
+</br>
+</br>
+
 ## Awards & Honor
 *(Jun. 2022)*&nbsp;&nbsp;&nbsp;&nbsp; 한국경영정보학회 춘계통합학술대회 아이디어 공모전 최우수상 
 
@@ -36,21 +43,6 @@
 </br>
 </br>
 
-## Conference & Journal
-
-*(Dec. 2021)*&nbsp;&nbsp;&nbsp; **한국지능정보시스템학회**, 추계학술대회 <br>
-　　　　　　&nbsp;::&nbsp;&nbsp;앙상블 모델 개발을 통한 수출액 예측과 클러스터링 기반 유망 시장 추천
-</br>
-</br>
-
-## Certification
-*(Dec.2022)*&nbsp;&nbsp;&nbsp; 빅데이터분석기사
-
-*(Dec.2020)*&nbsp;&nbsp;&nbsp; Advanced Data Analytics Semi-Professional (ADsP)
-
-*(Jun.2020)*&nbsp;&nbsp;&nbsp;&nbsp; SQL Developer (SQLD)
-</br>
-</br>
 
 
 ## Additional Experience
