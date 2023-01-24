@@ -6,30 +6,25 @@
 *(Mar. 2013 ~ Aug. 2020)*&nbsp;&nbsp;&nbsp;**Kookmin University**, Department of Japanese Studies <br>
 　　　　　　　　　      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Kookmin University**, School of Management Information Systems
 </br>
-</br>
 
 ## Career
 
 *(Feb. 2021 ~ Feb. 2022)*&nbsp;&nbsp;&nbsp;**Mobigen**, Data Analyst (Senior Manager)
-</br>
 </br>
 
 ## Interest
 
 **Causal Inference, Recommender System, Anomaly Detection**
 </br>
-</br>
 
 ## Projects
 [*Completed Projects*](https://github.com/juunho/Completed_Projects)
-</br>
 </br>
 
 ## Conference & Journal
 
 *(Dec. 2021)*&nbsp;&nbsp;&nbsp; **한국지능정보시스템학회**, 추계학술대회 <br>
 　　　　　　&nbsp;::&nbsp;&nbsp;앙상블 모델 개발을 통한 수출액 예측과 클러스터링 기반 유망 시장 추천
-</br>
 </br>
 
 ## Awards & Honor
@@ -41,8 +36,6 @@
 
 *(Sep. 2020)*&nbsp;&nbsp;&nbsp;&nbsp; 서울특별시 빅데이터 캠퍼스 공모전 최우수상
 </br>
-</br>
-
 
 
 ## Additional Experience
