@@ -1,7 +1,7 @@
 
 ## Education
 *(Mar. 2022 ~ Present)*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Yonsei Univ.**, M.S. in Information Systems, Big Data Analytics <br>
-　　　　　　　　　      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**- Digital Service Lab** ([DSLAB](https://gsiyonsei.wixsite.com/dslab))
+　　　　　　　　　      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**- Digital Service Lab** ([:mag:](https://gsiyonsei.wixsite.com/dslab))
 
 
 
