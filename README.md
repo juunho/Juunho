@@ -55,7 +55,7 @@
 
 ## Additional Experience
 
-*(Jul. 2022 ~ Jul. 2023)*&nbsp;&nbsp;&nbsp;**Teaching Assistant**, Yonsei University
+*(Jul. 2022 ~ Dec. 2023)*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Teaching Assistant**, Yonsei University
 
 *(Apr. 2022 ~ May. 2022)*&nbsp;&nbsp;&nbsp;**Research Assistant**, Samsung Global Research
 
