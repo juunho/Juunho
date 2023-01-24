@@ -9,7 +9,7 @@
 </br>
 </br>
 
-## Career
+## Career & Projects
 
 *(Feb. 2021 ~ Feb. 2022)*&nbsp;&nbsp;&nbsp;**Mobigen**, Data Analyst (Senior Manager) <br>
 
