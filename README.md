@@ -1,11 +1,11 @@
 
 ## Education
-*(Mar. 2022 ~ Present)*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Yonsei University**, M.S. in Information Systems, Big Data Analytics <br>
+*(Mar. 2022 ~ Present)*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Yonsei Univ.**, M.S. in Information Systems, Big Data Analytics <br>
 　　　　　　　　　      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**- Digital Service Lab** ([DSLAB](https://gsiyonsei.wixsite.com/dslab))
 
 
-*(Mar. 2013 ~ Aug. 2020)*&nbsp;&nbsp;&nbsp;**Kookmin University**, Bachelor of International Studies  <br>
-　　　　　　　　　      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Kookmin University**, Bachelor of Management Information Systems
+
+*(Mar. 2013 ~ Aug. 2020)*&nbsp;&nbsp;&nbsp;**Kookmin Univ.**, Bachelor of International Studies **&** Management Information Systems (Dual Major)
 </br>
 </br>
 
@@ -46,7 +46,7 @@
 
 ## Additional Experience
 
-*(Jul. 2022 ~ Dec. 2023)*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Teaching Assistant**, Yonsei University
+*(Jul. 2022 ~ Dec. 2023)*&nbsp;&nbsp;&nbsp;&nbsp;**Teaching Assistant**, Yonsei University
 
 *(Apr. 2022 ~ May. 2022)*&nbsp;&nbsp;&nbsp;**Research Assistant**, Samsung Global Research
 
