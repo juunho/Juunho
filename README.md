@@ -11,18 +11,14 @@
 
 ## Career
 
-*(Feb. 2021 ~ Feb. 2022)*&nbsp;&nbsp;&nbsp;**Mobigen**, Data Analyst (Senior Manager)
-</br>
-</br>
+*(Feb. 2021 ~ Feb. 2022)*&nbsp;&nbsp;&nbsp;**Mobigen**, Data Analyst (Senior Manager) <br>
 
+:arrow_forward: [*Completed Projects*](https://github.com/juunho/Completed_Projects)
+</br>
+</br>
 ## Interest
 
 **Causal Inference, Recommender System, Anomaly Detection**
-</br>
-</br>
-
-## Projects
-[*Completed Projects*](https://github.com/juunho/Completed_Projects)
 </br>
 </br>
 
