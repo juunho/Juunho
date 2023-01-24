@@ -44,6 +44,7 @@
 </br>
 
 ## Certification
+*(Dec.2022)*&nbsp;&nbsp;&nbsp; 빅데이터분석기사
 
 *(Dec.2020)*&nbsp;&nbsp;&nbsp; Advanced Data Analytics Semi-Professional (ADsP)
 
