@@ -1,4 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&text=Junho%20Bae)
+<div align="center">
+  
+  ![header](https://capsule-render.vercel.app/api?type=transparent&text=Junho%20Bae)
+</div>
+
 
 ## Education
 *(Mar. 2022 ~ Present)*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Yonsei Univ.**, M.S. in Information Systems, Big Data Analytics <br>
