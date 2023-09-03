@@ -62,8 +62,16 @@
 
 ## Additional Experience
 
-*(Jul. 2022 ~ Dec. 2023)*&nbsp;&nbsp;&nbsp;&nbsp;**Teaching Assistant**, Yonsei University
+<p align="center">
+  &nbsp;&nbsp;&nbsp;
+  
+  <img src="https://github.com/juunho/Image_Source/blob/d632363b609de09201b969157184f1e7c1cc1c86/KOREATECH.png" align="center" width="31%">
+  &nbsp;&nbsp;&nbsp;
+  
+  <img src="https://github.com/juunho/Image_Source/blob/d632363b609de09201b969157184f1e7c1cc1c86/SGR.png" align="center" width="31%">
+  &nbsp;&nbsp;&nbsp;
 
-*(Apr. 2022 ~ May. 2022)*&nbsp;&nbsp;&nbsp;**Research Assistant**, Samsung Global Research
+  <img src="https://github.com/juunho/Image_Source/blob/d632363b609de09201b969157184f1e7c1cc1c86/YONSEI.png" align="center" width="31%">
+  &nbsp;&nbsp;&nbsp;
 
-*(Aug. 2020 ~ Dec. 2020)*&nbsp;&nbsp;&nbsp;**공공 빅데이터 인턴**, 수원시청 정보통신과 빅데이터팀
+</p>
