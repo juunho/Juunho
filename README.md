@@ -16,7 +16,7 @@
 
 ## Interests
 
-**Causal Inference, Recommender System, Anomaly Detection**
+**Causal Inference,**&nbsp; **Recommender System,**&nbsp; **Anomaly Detection**
 </br>
 </br>
 
@@ -39,10 +39,27 @@
 </br>
 </br>
 
-## Conference & Journal
+## Publication & Conference
 
-*(Dec. 2021)*&nbsp;&nbsp;&nbsp; **한국지능정보시스템학회**, 추계학술대회 <br>
+
+*(Publication)*&nbsp;&nbsp;&nbsp; , **TBU (KCI)** 	<br>
+　　　　　　&nbsp;::&nbsp;&nbsp;씬 파일러를 위한 신용평가모형 구축
+
+
+*(Conference)*&nbsp;&nbsp;&nbsp; **Korea Association of Information Systems (KAIS), 2022** 	<br>
+　　　　　　&nbsp;::&nbsp;&nbsp;체류형 숙박공유 플랫폼 고객의 서비스 만족 요인 분석: 혼합연구방법론 접근
+      
+</br>
+
+*(Conference)*&nbsp;&nbsp;&nbsp; **International Conference on Business and Finance (ICBF), 2022** 	<br>
+　　　　　　&nbsp;::&nbsp;&nbsp;Developing Spoiler Detection Using Narrative Features: Deep Learning Approach
+      
+</br>
+
+*(Conference)*&nbsp;&nbsp;&nbsp; **한국지능정보시스템학회**, 추계학술대회 <br>
 　　　　　　&nbsp;::&nbsp;&nbsp;앙상블 모델 개발을 통한 수출액 예측과 클러스터링 기반 유망 시장 추천
+
+      Junho Bae, Seongsu Kim **한국지능정보시스템학회**
 </br>
 </br>
 
