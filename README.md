@@ -8,44 +8,39 @@
 
 
 ## Education
-*(Mar. 2022 ~ Present)*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Yonsei Univ.**, M.S. in Information Systems, Big Data Analytics <br>
-　　　　　　　　　      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**- Digital Service Lab** ([:mag:](https://gsiyonsei.wixsite.com/dslab))
+*(Mar. 2022 ~ Feb. 2024)*&nbsp;&nbsp;&nbsp;&nbsp;**Yonsei University**, M.S. in Information Systems, Big Data Analytics <br>
 
-
-
-*(Mar. 2013 ~ Aug. 2020)*&nbsp;&nbsp;&nbsp;**Kookmin Univ.**, Bachelor of International Studies **&** Management Information Systems (Dual Major)
+*(Mar. 2013 ~ Aug. 2020)*&nbsp;&nbsp;&nbsp;**Kookmin University**, Bachelor of International Studies **&** Management Information Systems (Dual Major)
 </br>
 </br>
 
-## Career & Projects
+## Interests
 
-*(Feb. 2021 ~ Feb. 2022)*&nbsp;&nbsp;&nbsp;**Mobigen**, Data Analyst (Senior Manager) <br>
+**Causal Inference, Recommender System, Anomaly Detection**
+</br>
+</br>
+
+## Projects
+
+<p align="center">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  
+  <img src="https://github.com/juunho/Image_Source/blob/22a498fb2ca2d60ff0b564a1b1afc68f0a3c2b35/HANA.png" align="center" width="30%">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+  
+  <img src="https://github.com/juunho/Image_Source/blob/22a498fb2ca2d60ff0b564a1b1afc68f0a3c2b35/LOTTE.png" align="center" width="30%">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+
+  <img src="https://github.com/juunho/Image_Source/blob/22a498fb2ca2d60ff0b564a1b1afc68f0a3c2b35/MOBIGEN.png" align="center" width="30%">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+
+</p>
+
 
 :arrow_forward: [*Completed Projects*](https://github.com/juunho/Completed_Projects)
 </br>
 
 
-<p align="center">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  
-  <img src="https://github.com/juunho/Image_Source/blob/eaea09f00a9bf5005e95e6667ad0bc937f14c308/%ED%95%98%EB%82%98%EA%B8%88%EC%9C%B5%EA%B7%B8%EB%A3%B9.png" align="center" width="29%">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  
-  <img src="https://github.com/juunho/Image_Source/blob/6a7d326eb2581e53cb064d18a438d33325eae864/%EB%A1%AF%EB%8D%B0%EC%B9%A0%EC%84%B1.png" align="center" width="29%">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-  <img src="https://github.com/juunho/Image_Source/blob/a0ea9b3d90e510b4ddf35cba5cf31e608fe412c6/%EB%AA%A8%EB%B9%84%EC%A0%A0.png" align="center" width="29%">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-  
-</p>
-
-
-## Interest
-
-**Causal Inference, Recommender System, Anomaly Detection**
-</br>
-</br>
 
 ## Conference & Journal
 
