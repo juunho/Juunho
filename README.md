@@ -23,16 +23,16 @@
 ## Projects
 
 <p align="center">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
   
-  <img src="https://github.com/juunho/Image_Source/blob/22a498fb2ca2d60ff0b564a1b1afc68f0a3c2b35/HANA.png" align="center" width="30%">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+  <img src="https://github.com/juunho/Image_Source/blob/22a498fb2ca2d60ff0b564a1b1afc68f0a3c2b35/HANA.png" align="center" width="31%">
+  &nbsp;&nbsp;&nbsp;
   
-  <img src="https://github.com/juunho/Image_Source/blob/22a498fb2ca2d60ff0b564a1b1afc68f0a3c2b35/LOTTE.png" align="center" width="30%">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+  <img src="https://github.com/juunho/Image_Source/blob/22a498fb2ca2d60ff0b564a1b1afc68f0a3c2b35/LOTTE.png" align="center" width="31%">
+  &nbsp;&nbsp;&nbsp;
 
-  <img src="https://github.com/juunho/Image_Source/blob/22a498fb2ca2d60ff0b564a1b1afc68f0a3c2b35/MOBIGEN.png" align="center" width="30%">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+  <img src="https://github.com/juunho/Image_Source/blob/22a498fb2ca2d60ff0b564a1b1afc68f0a3c2b35/MOBIGEN.png" align="center" width="31%">
+  &nbsp;&nbsp;&nbsp;
 
 </p>
 
