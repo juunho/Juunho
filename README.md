@@ -37,28 +37,26 @@
 
 ## Publication & Conference
 
+- **배준호**, 김성수, 이주현 & 정희주. (2023). TeGCN:씬파일러 신용평가를 위한 트랜스포머 임베딩 기반 그래프 신경망 구조 개발. </br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*지능정보연구* [Working Paper].
 
-*(Publication)*&nbsp;&nbsp;&nbsp; , **TBU (KCI)** 	<br>
-　　　　　　&nbsp;::&nbsp;&nbsp;씬 파일러를 위한 신용평가모형 구축
-
-
-*(Conference)*&nbsp;&nbsp;&nbsp; **Korea Association of Information Systems (KAIS), 2022** 	<br>
-　　　　　　&nbsp;::&nbsp;&nbsp;체류형 숙박공유 플랫폼 고객의 서비스 만족 요인 분석: 혼합연구방법론 접근
       
 </br>
-
-*(Conference)*&nbsp;&nbsp;&nbsp; **International Conference on Business and Finance (ICBF), 2022** 	<br>
-　　　　　　&nbsp;::&nbsp;&nbsp;Developing Spoiler Detection Using Narrative Features: Deep Learning Approach
       
+- **배준호**, & 김성수. (2022). 체류형 숙박공유 플랫폼 고객의 서비스 만족 요인 분석: 혼합연구방법론 접근. </br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*In Proceedings of the Korea Association of Information Systems (KAIS)*.
+
 </br>
 
-*(Conference)*&nbsp;&nbsp;&nbsp; **한국지능정보시스템학회**, 추계학술대회 <br>
-　　　　　　&nbsp;::&nbsp;&nbsp;앙상블 모델 개발을 통한 수출액 예측과 클러스터링 기반 유망 시장 추천
+- **Junho Bae**, & Seongsu Kim. (2022). Developing spoiler detection using narrative features: Deep learning approach.  </br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*In Proceedings of the International Conference on Business and Finance (ICBF)*.
 
-      Junho Bae, Seongsu Kim **한국지능정보시스템학회**
-</br>
 </br>
 
+- 김성범, & **배준호**. (2021). 앙상블 모델 개발을 통한 수출액 예측과 클러스터링 기반 유망 시장 추천. </br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *한국지능정보시스템학회 학술대회논문집*, 117-118.
+</br>
+</br>
 
 ## Additional Experience
 
