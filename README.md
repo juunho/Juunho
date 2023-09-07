@@ -31,8 +31,11 @@
 
 </p>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:arrow_forward: [***More Projects...***](https://github.com/juunho/Completed_Projects)
-</br>
+<div align="right">
+
+:arrow_forward: [***More Projects...***](https://github.com/juunho/Completed_Projects)
+
+</div
 </br>
 
 ## Publication & Conference
@@ -56,7 +59,7 @@
 - 김성범, & **배준호**. (2021). 앙상블 모델 개발을 통한 수출액 예측과 클러스터링 기반 유망 시장 추천. </br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *한국지능정보시스템학회 학술대회논문집*, 117-118.
 </br>
-</br>
+
 
 ## Additional Experience
 
