@@ -28,7 +28,6 @@
   &nbsp;&nbsp;&nbsp;
 
   <img src="https://github.com/juunho/Image_Source/blob/22a498fb2ca2d60ff0b564a1b1afc68f0a3c2b35/MOBIGEN.png" align="center" width="31%">
-
 </p>
 
 <div align="right">
@@ -73,8 +72,6 @@
   &nbsp;&nbsp;&nbsp;
 
   <img src="https://github.com/juunho/Image_Source/blob/d632363b609de09201b969157184f1e7c1cc1c86/YONSEI.png" align="center" width="31%">
-  &nbsp;&nbsp;&nbsp;
-
 </p>
 
 </br>
