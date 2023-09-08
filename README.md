@@ -1,7 +1,18 @@
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=transparent&height=200&section=header&text=Junho%20Bae&fontSize=90&fontAlignY=38&desc=Data%20Scientist%20|%20AI%20Researcher%20&descAlignY=63&descAlign=60)
+![header](https://capsule-render.vercel.app/api?type=transparent&height=130&section=header&text=Junho%20Bae&fontSize=90&fontAlignY=38&desc=Data%20Scientist%20|%20AI%20Researcher%20&descAlignY=75&descAlign=60)
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white">
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white">
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white">
+<img src="https://img.shields.io/badge/BentoML-FF6F61?style=flat&logo=bentoml&logoColor=white">
 </div>
+
+
+</br>
+</br>
+
 
 ## Education
 *(Mar. 2022 ~ Feb. 2024)*&nbsp;&nbsp;&nbsp;&nbsp;**Yonsei University**, M.S. in Information Systems <br>
