@@ -76,3 +76,7 @@
   &nbsp;&nbsp;&nbsp;
 
 </p>
+
+</br>
+
+## Side Projects
