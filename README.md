@@ -79,4 +79,6 @@
 
 </br>
 
-## Side Projects
+## Miscellaneous Works
+- Dive into Deep Learning
+- Econometrics
