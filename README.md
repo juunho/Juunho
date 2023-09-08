@@ -12,7 +12,7 @@
 
 ## Interests
 
-**Prediction Modeling**,&nbsp; **Causal Inference**,&nbsp; **Anomaly Detection**,&nbsp; **Deep Learning with Application**
+**Prediction Modeling**,&nbsp;  **NLP**,&nbsp; **Anomaly Detection**,&nbsp; **Causal Inference**
 </br>
 </br>
 
@@ -33,7 +33,7 @@
 
 <div align="right">
 
-:arrow_forward: [***More Projects...***](https://github.com/juunho/Completed_Projects)
+:rocket: [***See More Projects***](https://github.com/juunho/Completed_Projects)
 
 </div
 </br>
