@@ -7,7 +7,7 @@
 <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white">
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white">
 <img src="https://img.shields.io/badge/BentoML-FF6F61?style=flat&logo=bentoml&logoColor=white">
-<img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white">
+<img src="https://img.shields.io/badge/Tableau-4CAF50?style=flat&logo=tableau&logoColor=white">
 </div>
 
 
