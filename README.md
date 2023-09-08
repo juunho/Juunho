@@ -12,7 +12,7 @@
 
 ## Interests
 
-**Causal Inference,**&nbsp; **Recommender System,**&nbsp; **Anomaly Detection**
+**Prediction Modeling**,&nbsp; **Causal Inference**,&nbsp; **Anomaly Detection**,&nbsp; **Deep Learning with Application**
 </br>
 </br>
 
