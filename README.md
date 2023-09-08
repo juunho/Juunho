@@ -4,7 +4,7 @@
 </div>
 
 ## Education
-*(Mar. 2022 ~ Feb. 2024)*&nbsp;&nbsp;&nbsp;&nbsp;**Yonsei University**, M.S. in Information Systems, Big Data Analytics <br>
+*(Mar. 2022 ~ Feb. 2024)*&nbsp;&nbsp;&nbsp;&nbsp;**Yonsei University**, M.S. in Information Systems <br>
 
 *(Mar. 2013 ~ Aug. 2020)*&nbsp;&nbsp;&nbsp;**Kookmin University**, B.A. in International Studies **&** Management Information Systems (Dual Major)
 </br>
