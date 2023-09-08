@@ -10,10 +10,9 @@
 <img src="https://img.shields.io/badge/Tableau-4CAF50?style=flat&logo=tableau&logoColor=white">
 </div>
 
-
 </br>
 </br>
-
+</br>
 
 ## Education
 *(Mar. 2022 ~ Feb. 2024)*&nbsp;&nbsp;&nbsp;&nbsp;**Yonsei University**, M.S. in Information Systems <br>
