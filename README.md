@@ -38,10 +38,10 @@
   <img src="https://github.com/juunho/Juunho/assets/81394769/097467fd-7fcc-4729-9464-f22d199632aa" align="center" width="30%">
   &nbsp;&nbsp;&nbsp;
   
-  <img src="https://github.com/juunho/Image_Source/blob/22a498fb2ca2d60ff0b564a1b1afc68f0a3c2b35/LOTTE.png" align="center" width="30%">
+  <img src="https://github.com/juunho/Juunho/assets/81394769/eb4cb00f-d5d5-4dac-afaa-c609c414f398" align="center" width="30%">
   &nbsp;&nbsp;&nbsp;
 
-  <img src="https://github.com/juunho/Image_Source/blob/22a498fb2ca2d60ff0b564a1b1afc68f0a3c2b35/MOBIGEN.png" align="center" width="30%">
+  <img src="https://github.com/juunho/Juunho/assets/81394769/72d63b32-38ff-49c3-ba5c-4c58c680e320" align="center" width="30%">
 </p>
 
 <div align="right">
@@ -79,13 +79,13 @@
 <p align="center">
   &nbsp;&nbsp;&nbsp;
   
-  <img src="https://github.com/juunho/Image_Source/blob/d632363b609de09201b969157184f1e7c1cc1c86/KOREATECH.png" align="center" width="31%">
+  <img src="https://github.com/juunho/Juunho/assets/81394769/39ce8475-eb37-4f1f-825f-05371c7cdfce" align="center" width="31%">
   &nbsp;&nbsp;&nbsp;
   
-  <img src="https://github.com/juunho/Image_Source/blob/d632363b609de09201b969157184f1e7c1cc1c86/SGR.png" align="center" width="31%">
+  <img src="https://github.com/juunho/Juunho/assets/81394769/86bb193d-442c-4120-958d-78b335c65105" align="center" width="31%">
   &nbsp;&nbsp;&nbsp;
 
-  <img src="https://github.com/juunho/Image_Source/blob/d632363b609de09201b969157184f1e7c1cc1c86/YONSEI.png" align="center" width="31%">
+  <img src="https://github.com/juunho/Juunho/assets/81394769/c705c7e8-f8b1-4ef1-9ad9-82c3ebbbad04" align="center" width="31%">
 </p>
 
 </br>
