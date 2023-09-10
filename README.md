@@ -91,5 +91,5 @@
 </br>
 
 ## Miscellaneous Works
-- Dive into Deep Learning
-- Econometrics
+- **Code Documentation**
+- **Prosocial Projects**
