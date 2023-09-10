@@ -35,7 +35,7 @@
 <p align="center">
   &nbsp;&nbsp;&nbsp;
   
-  <img src="https://github.com/juunho/Image_Source/blob/22a498fb2ca2d60ff0b564a1b1afc68f0a3c2b35/HANA.png" align="center" width="30%">
+  <img src="https://github.com/juunho/Juunho/assets/81394769/097467fd-7fcc-4729-9464-f22d199632aa" align="center" width="30%">
   &nbsp;&nbsp;&nbsp;
   
   <img src="https://github.com/juunho/Image_Source/blob/22a498fb2ca2d60ff0b564a1b1afc68f0a3c2b35/LOTTE.png" align="center" width="30%">
