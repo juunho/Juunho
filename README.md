@@ -101,11 +101,12 @@
     
 </details>
 
-<details>
-<summary><b>Data Science for Prosocial</b></summary>
 
-Econometrics
-Dive into DeepLearning
+<details>
+<summary><b>Prosocial Project</b></summary>
+
+  - ESG Rating
+
+  - 
     
 </details>
-
