@@ -34,7 +34,7 @@
 
 <p align="center">
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
 [<img alt="Image1" width="30.5%" src="https://github-production-user-asset-6210df.s3.amazonaws.com/81394769/266812702-097467fd-7fcc-4729-9464-f22d199632aa.png" />](https://github.com/juunho/Completed_Projects/tree/5a4da15923834c97c659a3add99908728d6e9f14/AI%20%EC%8B%A0%EC%9A%A9%ED%8F%89%EA%B0%80%EB%AA%A8%ED%98%95%20%EA%B8%B0%EB%B0%98%20%EC%B1%97%EB%B4%87%20%EC%84%9C%EB%B9%84%EC%8A%A4%20%EA%B5%AC%ED%98%84)
 &nbsp;&nbsp;&nbsp;
 [<img alt="Image2" width="30.5%" src="https://github-production-user-asset-6210df.s3.amazonaws.com/81394769/266812746-eb4cb00f-d5d5-4dac-afaa-c609c414f398.png" />](https://github.com/juunho/Completed_Projects/tree/5a4da15923834c97c659a3add99908728d6e9f14/MLOps%20%EA%B8%B0%EB%B0%98%20%EC%A0%9C%EC%A1%B0%EC%84%A4%EB%B9%84%20%EC%9D%B4%EC%83%81%ED%83%90%EC%A7%80%20%EB%AA%A8%EB%8D%B8%20%EA%B5%AC%EC%B6%95)
