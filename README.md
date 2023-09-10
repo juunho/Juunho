@@ -91,5 +91,22 @@
 </br>
 
 ## Miscellaneous Works
-- **Code Documentation**
-- **Prosocial Data Science Projects**
+
+<details>
+<summary><b>Code Documentation</b></summary>
+
+  - Econometrics
+  
+  - Dive into DeepLearning
+    
+</details>
+
+<details>
+<summary><b>Data Science for Prosocial</b></summary>
+
+  - ESG Rating
+  
+  - Dive into DeepLearning
+    
+</details>
+
