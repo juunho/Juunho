@@ -95,9 +95,9 @@
 <details>
 <summary><b>Code Documentation</b></summary>
 
-  - Econometrics
+  - Econometric Models
   
-  - Dive into DeepLearning
+  - Dive into Deep Learning: Recommender Systems
     
 </details>
 
