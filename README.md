@@ -79,13 +79,13 @@
 <p align="center">
   &nbsp;&nbsp;&nbsp;
   
-  <img src="https://github.com/juunho/Juunho/assets/81394769/39ce8475-eb37-4f1f-825f-05371c7cdfce" align="center" width="31%">
+  <img src="https://github.com/juunho/Juunho/assets/81394769/39ce8475-eb37-4f1f-825f-05371c7cdfce" align="center" width="30.5%">
   &nbsp;&nbsp;&nbsp;
   
-  <img src="https://github.com/juunho/Juunho/assets/81394769/86bb193d-442c-4120-958d-78b335c65105" align="center" width="31%">
+  <img src="https://github.com/juunho/Juunho/assets/81394769/86bb193d-442c-4120-958d-78b335c65105" align="center" width="30.5%">
   &nbsp;&nbsp;&nbsp;
 
-  <img src="https://github.com/juunho/Juunho/assets/81394769/c705c7e8-f8b1-4ef1-9ad9-82c3ebbbad04" align="center" width="31%">
+  <img src="https://github.com/juunho/Juunho/assets/81394769/c705c7e8-f8b1-4ef1-9ad9-82c3ebbbad04" align="center" width="30.5%">
 </p>
 
 </br>
