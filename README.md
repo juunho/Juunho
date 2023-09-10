@@ -104,9 +104,8 @@
 <details>
 <summary><b>Data Science for Prosocial</b></summary>
 
-  - ESG Rating
-  
-  - Dive into DeepLearning
+Econometrics
+Dive into DeepLearning
     
 </details>
 
