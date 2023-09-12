@@ -74,17 +74,16 @@
 
 
 ## Additional Experience
-
 <p align="center">
-  &nbsp;&nbsp;&nbsp;
-  
-  <img src="https://github.com/juunho/Juunho/assets/81394769/39ce8475-eb37-4f1f-825f-05371c7cdfce" align="center" width="30.5%">
-  &nbsp;&nbsp;&nbsp;
-  
-  <img src="https://github.com/juunho/Juunho/assets/81394769/86bb193d-442c-4120-958d-78b335c65105" align="center" width="30.5%">
-  &nbsp;&nbsp;&nbsp;
 
-  <img src="https://github.com/juunho/Juunho/assets/81394769/c705c7e8-f8b1-4ef1-9ad9-82c3ebbbad04" align="center" width="30.5%">
+&nbsp;&nbsp;&nbsp;
+[<img alt="Image4" width="30.5%" src="https://user-images.githubusercontent.com/81394769/266812806-39ce8475-eb37-4f1f-825f-05371c7cdfce.png" />](https://github.com/juunho/Completed_Projects/tree/5a4da15923834c97c659a3add99908728d6e9f14/AI%20%EC%8B%A0%EC%9A%A9%ED%8F%89%EA%B0%80%EB%AA%A8%ED%98%95%20%EA%B8%B0%EB%B0%98%20%EC%B1%97%EB%B4%87%20%EC%84%9C%EB%B9%84%EC%8A%A4%20%EA%B5%AC%ED%98%84)
+&nbsp;&nbsp;&nbsp;
+[<img alt="Image5" width="30.5%" src="https://user-images.githubusercontent.com/81394769/266812827-86bb193d-442c-4120-958d-78b335c65105.png" />](https://github.com/juunho/Completed_Projects/tree/5a4da15923834c97c659a3add99908728d6e9f14/AI%20%EC%8B%A0%EC%9A%A9%ED%8F%89%EA%B0%80%EB%AA%A8%ED%98%95%20%EA%B8%B0%EB%B0%98%20%EC%B1%97%EB%B4%87%20%EC%84%9C%EB%B9%84%EC%8A%A4%20%EA%B5%AC%ED%98%84)
+&nbsp;&nbsp;&nbsp;
+[<img alt="Image6" width="30.5%" src="https://user-images.githubusercontent.com/81394769/266812839-c705c7e8-f8b1-4ef1-9ad9-82c3ebbbad04.png" />](https://github.com/juunho/Completed_Projects/tree/5a4da15923834c97c659a3add99908728d6e9f14/AI%20%EC%8B%A0%EC%9A%A9%ED%8F%89%EA%B0%80%EB%AA%A8%ED%98%95%20%EA%B8%B0%EB%B0%98%20%EC%B1%97%EB%B4%87%20%EC%84%9C%EB%B9%84%EC%8A%A4%20%EA%B5%AC%ED%98%84)
+&nbsp;&nbsp;&nbsp;
+
 </p>
 
 </br>
