@@ -103,7 +103,7 @@
 <details>
 <summary><b>Prosocial Project</b></summary>
 
-  - [ESG Rating](https://github.com/juunho/Side_Projects#prosocial-project)
+  - [ESG Rating](https://github.com/juunho/Side_Projects#prosocial)
 
   - 
     
