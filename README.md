@@ -18,7 +18,7 @@
 </br>
 
 ## Carrer
-*(Jan. 2024 ~ )*&nbsp;&nbsp;&nbsp;&nbsp;**SK C&C**, Data Scientist <br>
+*(Jan. 2024 ~ &nbsp;&nbsp;)*&nbsp;&nbsp;&nbsp;&nbsp;**SK C&C**, Data Scientist <br>
 </br>
 
 ## Education
