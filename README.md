@@ -17,6 +17,10 @@
 </br>
 </br>
 
+## Carrer
+*(Jan. 2024 ~ )*&nbsp;&nbsp;&nbsp;&nbsp;**SK C&C**, Data Scientist <br>
+</br>
+
 ## Education
 *(Mar. 2022 ~ Feb. 2024)*&nbsp;&nbsp;&nbsp;&nbsp;**Yonsei University**, M.S. in Information Systems <br>
 
