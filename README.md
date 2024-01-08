@@ -69,7 +69,7 @@
 
 ## Publications & Conferences
 
-- **Junho Bae** (2023). Tailor GAN: Diffusion-based Image Generation for Garment Fitting. </br>
+- **Junho Bae**. (2023). Tailor GAN: Diffusion-based Image Generation for Garment Fitting. </br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*In Proceedings of the International Conference on Software and e-Business (ICSeb)*.
       
 </br>
