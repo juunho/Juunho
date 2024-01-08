@@ -69,6 +69,9 @@
 
 ## Publications & Conferences
 
+- **배준호** (2023). Tailor GAN: Diffusion-based Image Generation for Garment Fitting. </br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*In Proceedings of the International Conference on Software and e-Business (ICSeb)*.
+
 - **배준호**, 김성수, 이주현, & 정희주. (2023). TeGCN:씬파일러 신용평가를 위한 트랜스포머 임베딩 기반 그래프 신경망 구조 개발. </br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*지능정보연구*.
 
