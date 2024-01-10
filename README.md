@@ -111,11 +111,11 @@
 <details>
 <summary><b>Lecturer</b></summary>
 
-  - Python Programming (First-Year Graduate Students)
+  - Python Programming (First-Year Graduate Students Course)
     
-  - Data Science for Business
+  - Data Science for Business (Working Professionals Course)
   
-  - Text Mining (First-Year Graduate Students)
+  - Text Mining (First-Year Graduate Students Course)
     
 </details>
 
