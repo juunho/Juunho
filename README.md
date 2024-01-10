@@ -53,7 +53,7 @@
 
 **in Mobigen**
   
-- *(Feb. 2021 ~ Feb. 2022)*&nbsp;&nbsp;**경기도 수원시** - _빅데이터 플랫폼 개발 및 데이터 분석_ &nbsp;&nbsp; [— :pushpin:](https://github.com/juunho/Suwon-2021)  <br>
+- *(Feb. 2021 ~ Feb. 2022)*&nbsp;&nbsp;**수원시 빅데이터팀** - _빅데이터 플랫폼 개발 및 데이터 분석_ &nbsp;&nbsp; [— :pushpin:](https://github.com/juunho/Suwon-2021)  <br>
 
 </p>
 
