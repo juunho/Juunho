@@ -106,8 +106,6 @@
     
 </details>
 
-</br>
-
 <details>
 <summary><b>Lecturer</b></summary>
 
@@ -118,8 +116,6 @@
   - Text Mining (First-Year Graduate Students Course)
     
 </details>
-
-</br>
 
 <details>
 <summary><b>Side Projects 😀</b></summary>
