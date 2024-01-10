@@ -122,7 +122,7 @@
 </br>
 
 <details>
-<summary><b>Prosocial Project</b></summary>
+<summary><b>Side Projects 😀</b></summary>
 
   - [ESG Rating](https://github.com/juunho/Side_Projects#prosocial-project)
 
