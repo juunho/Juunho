@@ -18,7 +18,7 @@
 </br>
 
 ## Carrer
-*(Jan. 2024 ~ Now)*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**SK C&C**, Data Scientist <br>
+*(Jan. 2024 ~ Now)*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**SK C&C**, Data Scientist (G.AI Engineering Team) <br>
 
 *(Feb. 2021 ~ Feb. 2022)*&nbsp;&nbsp;&nbsp;&nbsp;**Mobigen**, Data Analyst (DX Team) <br>
 
