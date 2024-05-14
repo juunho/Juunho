@@ -25,7 +25,7 @@ I am presently interested in RAG(Retrieval-Augmented Generation) and LLM Orchest
 
 -&nbsp;Contact Me: [![Linkedin](https://i.stack.imgur.com/gVE0j.png) **Linkedin**](https://www.linkedin.com/in/juunho)
 
--&nbsp;Curriculum Vitae: 
+-&nbsp;More About Me: :page_facing_up: Curriculum Vitae
 
 </br>
 
