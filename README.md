@@ -39,7 +39,7 @@ I am presently interested in RAG(Retrieval-Augmented Generation) and LLM Orchest
 
   <br>
   
-**- Digital Service Lab**
+**- Yonsei Univ. Digital Service Lab**
 
   *(Oct. 2022 ~ Jul. 2023)*&nbsp;&nbsp;&nbsp; _AI 신용평가모형 기반 챗봇 서비스 구현 (**w/** 하나금융그룹 )_ &nbsp; [— &nbsp; :pushpin:](https://github.com/juunho/Completed_Projects/tree/db83be47d14ddff856bd0da3046100989d13667e/AI%20%EC%8B%A0%EC%9A%A9%ED%8F%89%EA%B0%80%EB%AA%A8%ED%98%95%20%EA%B8%B0%EB%B0%98%20%EC%B1%97%EB%B4%87%20%EC%84%9C%EB%B9%84%EC%8A%A4%20%EA%B5%AC%ED%98%84) <br>
 
