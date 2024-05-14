@@ -13,15 +13,19 @@
 <img src="https://img.shields.io/badge/Tableau-4CAF50?style=flat&logo=tableau&logoColor=white">
 </div>
 
+
+
 </br>
 </br>
 
 ## About Me
 I am currently employed at SK Inc. C&C as a Generative AI Engineer.
 
-I am presently interested in RAG (Retrieval-Augmented Generation) and LLM Orchestration.
+I am presently interested in RAG(Retrieval-Augmented Generation) and LLM Orchestration.
 
-— Linkedin: 
+-&nbsp;Contact Me: [![Linkedin](https://i.stack.imgur.com/gVE0j.png) **Linkedin**](www.linkedin.com/in/juunho)
+
+-&nbsp;More About Me: 
 
 </br>
 
