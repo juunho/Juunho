@@ -23,7 +23,7 @@ I am currently employed at SK Inc. C&C as a Generative AI Engineer.
 
 I am presently interested in RAG(Retrieval-Augmented Generation) and LLM Orchestration.
 
--&nbsp;Contact Me: [![Linkedin](https://i.stack.imgur.com/gVE0j.png) **Linkedin**](www.linkedin.com/in/juunho)
+-&nbsp;Contact Me: [![Linkedin](https://i.stack.imgur.com/gVE0j.png) **Linkedin**](https://www.linkedin.com/in/juunho)
 
 -&nbsp;More About Me: 
 
