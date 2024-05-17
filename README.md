@@ -13,9 +13,6 @@
 <img src="https://img.shields.io/badge/Tableau-4CAF50?style=flat&logo=tableau&logoColor=white">
 </div>
 
-
-
-</br>
 </br>
 
 ## About Me
@@ -60,9 +57,8 @@ I am presently interested in RAG(Retrieval-Augmented Generation) and LLM Orchest
 
 :rocket: [***See More Projects***](https://github.com/juunho/Completed_Projects)
 
-</div
+</div>
   
-</br>
 
 ## Experience
 
