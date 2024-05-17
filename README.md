@@ -64,7 +64,7 @@ I am presently interested in RAG(Retrieval-Augmented Generation) and LLM Orchest
   
 </br>
 
-## Side Projects
+## Experience
 
 <details>
 <summary><b>Lecturer</b></summary>
