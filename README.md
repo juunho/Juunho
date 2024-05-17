@@ -67,6 +67,24 @@ I am presently interested in RAG(Retrieval-Augmented Generation) and LLM Orchest
 ## Experience
 
 <details>
+<summary><b>Publications & Conferences</b></summary>
+
+  - **Junho Bae**. (2023). Tailor GAN: Diffusion-based Image Generation for Garment Fitting. </br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *In Proceedings of the International Conference on Software and e-Business (ICSeb)*.
+
+  - **배준호**, 김성수, 이주현, & 정희주. (2023). TeGCN:씬파일러 신용평가를 위한 트랜스포머 임베딩 기반 그래프 신경망 구조 개발. </br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *지능정보연구, 29(3), 419-437*.
+  
+  - **Junho Bae**, & Seongsu Kim. (2022). Developing spoiler detection using narrative features: Deep learning approach.  </br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *In Proceedings of the International Conference on Business and Finance (ICBF)*.
+
+  - 김성범, & **배준호**. (2021). 앙상블 모델 개발을 통한 수출액 예측과 클러스터링 기반 유망 시장 추천. </br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *한국지능정보시스템학회 학술대회논문집, 117-118*.
+    
+</details>
+
+
+<details>
 <summary><b>Lecturer</b></summary>
 
   - Python Programming (First-Year Graduate Students Course)
