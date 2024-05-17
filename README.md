@@ -96,6 +96,6 @@ I am presently interested in RAG(Retrieval-Augmented Generation) and LLM Orchest
 
   - [ESG Rating](https://github.com/juunho/Side_Projects#prosocial-project)
 
-  - 
+  - Code Search (TBU)
     
 </details>
