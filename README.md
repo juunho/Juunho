@@ -3,7 +3,7 @@
 
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=transparent&height=130&section=header&text=Junho%20Bae&fontSize=88&fontAlignY=38&desc=Data%20Scientist%20|%20AI%20Engineer%20&descAlignY=75&descAlign=60)
+![header](https://capsule-render.vercel.app/api?type=transparent&height=130&section=header&text=Junho%20Bae&fontSize=88&fontAlignY=38&desc=Data%20Scientist%20|%20AI%20Researcher%20&descAlignY=75&descAlign=60)
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white">
@@ -16,9 +16,9 @@
 </br>
 
 ## About Me
-I am currently employed at SK Inc. C&C as a Generative AI Engineer.
+I am currently employed at SK C&C as a Data Scientist specializing in Generative AI.
 
-I am presently interested in RAG(Retrieval-Augmented Generation) and LLM Orchestration.
+And I'm presently interested in Retrieval-Augmented Generation(RAG) and LLM Orchestration.
 
 -&nbsp;Contact Me: [![Linkedin](https://i.stack.imgur.com/gVE0j.png) **Linkedin**](https://www.linkedin.com/in/juunho)
 
