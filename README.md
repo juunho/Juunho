@@ -16,7 +16,7 @@
 </br>
 
 ## About Me
-I am currently employed at SK C&C as a Data Scientist specializing in Generative AI.
+I am currently employed at SK inc. C&C as a Data Scientist specializing in Generative AI.
 
 And I'm presently interested in Retrieval-Augmented Generation(RAG) and LLM Orchestration.
 
