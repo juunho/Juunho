@@ -20,7 +20,7 @@ I am currently employed at SK inc. C&C as a Data Scientist specializing in Gener
 
 And I'm presently interested in Retrieval-Augmented Generation(RAG) and LLM Orchestration.
 
--&nbsp;Contact Me: [![Linkedin](https://i.stack.imgur.com/gVE0j.png) **Linkedin**](https://www.linkedin.com/in/juunho)
+-&nbsp;Contact Me: [![Linkedin](https://i.sstatic.net/gVE0j.png) **Linkedin**](https://www.linkedin.com/in/juunho)
 
 -&nbsp;More About Me: [:page_facing_up: **Curriculum Vitae**](https://github.com/juunho/Juunho/blob/18e6f54c08f5115360528e6962a6633f661cfd0b/CV_240515.pdf)
 
