@@ -18,9 +18,9 @@
 </br>
 
 ## About Me
-I am currently employed at SK C&C as a Data Scientist specializing in Generative AI.
+I work at SK C&C as a Data Scientist specializing in generative AI.
 
-And I'm presently interested in Retrieval-Augmented Generation(RAG) and LLM Orchestration.
+I am particularly interested in Retrieval-Augmented Generation(RAG) and LLM Agents.
 
 -&nbsp;Contact Me: [![Linkedin](https://i.sstatic.net/gVE0j.png) **Linkedin**](https://www.linkedin.com/in/juunho)
 
