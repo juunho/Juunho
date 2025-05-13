@@ -79,7 +79,17 @@ I am particularly interested in Retrieval-Augmented Generation(RAG) and LLM Agen
 
 </div>
 
-## Activities
+## Experience
+
+<details>
+<summary><b>Activities</b></summary>
+
+  - DEVOCEAN
+
+  - YOUNG TALENT
+    
+</details>
+
 
 <details>
 <summary><b>Publications & Conferences</b></summary>
@@ -99,12 +109,3 @@ I am particularly interested in Retrieval-Augmented Generation(RAG) and LLM Agen
 </details>
 
 
-
-<details>
-<summary><b>Side Projects 😀</b></summary>
-
-  - [ESG Rating](https://github.com/juunho/Side_Projects#prosocial-project)
-
-  - Code Search (TBU)
-    
-</details>
