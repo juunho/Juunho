@@ -7,10 +7,12 @@
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white">
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white">
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white">
-<img src="https://img.shields.io/badge/BentoML-FF6F61?style=flat&logo=bentoml&logoColor=white">
-<img src="https://img.shields.io/badge/Tableau-4CAF50?style=flat&logo=tableau&logoColor=white">
+<img src="https://img.shields.io/badge/SQL-4169E1?style=flat&logo=postgresql&logoColor=white">
+<img src="https://img.shields.io/badge/Langchain-1C3C3C?style=flat&logo=langchain&logoColor=white">
+<img src="https://img.shields.io/badge/Fastapi-009688?style=flat&logo=fastapi&logoColor=white">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white">
+
 </div>
 
 </br>
@@ -73,7 +75,7 @@ And I'm presently interested in Retrieval-Augmented Generation(RAG) and LLM Orch
 
 <div align="right">
   
-  <small>:rocket: [***More Projects***](https://github.com/juunho/Completed_Projects)</small>
+  :rocket: &nbsp;[***More Projects***](https://github.com/juunho/Completed_Projects)</sub>
 
 </div>
 
