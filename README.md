@@ -16,7 +16,7 @@
 </br>
 
 ## About Me
-I am currently employed at SK inc. C&C as a Data Scientist specializing in Generative AI.
+I am currently employed at SK C&C as a Data Scientist specializing in Generative AI.
 
 And I'm presently interested in Retrieval-Augmented Generation(RAG) and LLM Orchestration.
 
@@ -26,34 +26,41 @@ And I'm presently interested in Retrieval-Augmented Generation(RAG) and LLM Orch
 
 </br>
 
-## Projects
-
 <p align="center">
 
-**- SK Inc. C&C**
+<details open>
+  <summary><b>&nbsp;Ongoing Projects&nbsp;</b></summary>
 
- *(Apr. 2024 ~ Nov. 2024)*&nbsp;&nbsp;&nbsp; _MNO 통합 AI Agent 개발 (**w/** SK Telecom)_ &nbsp;&nbsp;
+</br>
 
-  <br>
-  
+  **- SK C&C**
+
+ &nbsp;&nbsp;&nbsp; *• T 에이닷* <sub><em>(Apr. 2024 ~ May. 2025)</em></sub> &nbsp;&nbsp;   <br>
+</details>
+
+
+   <br>
 
 
 <details>
 <summary><b>&nbsp;Recent Projects&nbsp;</b></summary>
-</br>
 
+  -------
+  
   **- Yonsei Univ. &nbsp; Digital Service Lab**
 
-  &nbsp;&nbsp;&nbsp;&nbsp; *AI 신용평가모형 기반 챗봇 서비스 구현* &nbsp;&nbsp;<sub><em>(Oct. 2022 ~ Jul. 2023)</em></sub> &nbsp; <sub>[··· &nbsp; :pushpin:](https://github.com/juunho/Completed_Projects/tree/db83be47d14ddff856bd0da3046100989d13667e/AI%20%EC%8B%A0%EC%9A%A9%ED%8F%89%EA%B0%80%EB%AA%A8%ED%98%95%20%EA%B8%B0%EB%B0%98%20%EC%B1%97%EB%B4%87%20%EC%84%9C%EB%B9%84%EC%8A%A4%20%EA%B5%AC%ED%98%84)</sub>  <br>
+  &nbsp;&nbsp;&nbsp;&nbsp; *• AI 신용평가모형 기반 챗봇 서비스 구현* &nbsp;&nbsp;<sub><em>(Oct. 2022 ~ Jul. 2023)</em></sub> &nbsp; <sub>[··· &nbsp; :pushpin:](https://github.com/juunho/Completed_Projects/tree/db83be47d14ddff856bd0da3046100989d13667e/AI%20%EC%8B%A0%EC%9A%A9%ED%8F%89%EA%B0%80%EB%AA%A8%ED%98%95%20%EA%B8%B0%EB%B0%98%20%EC%B1%97%EB%B4%87%20%EC%84%9C%EB%B9%84%EC%8A%A4%20%EA%B5%AC%ED%98%84)</sub>  <br>
 
 
-  &nbsp;&nbsp;&nbsp;&nbsp; *MLOps 기반 제조설비 이상탐지 모델 구축* &nbsp;&nbsp;<sub><em>(Jun. 2022 ~ Dec. 2022)</em></sub> &nbsp; [··· &nbsp; :pushpin:](https://github.com/juunho/Completed_Projects/tree/db83be47d14ddff856bd0da3046100989d13667e/MLOps%20%EA%B8%B0%EB%B0%98%20%EC%A0%9C%EC%A1%B0%EC%84%A4%EB%B9%84%20%EC%9D%B4%EC%83%81%ED%83%90%EC%A7%80%20%EB%AA%A8%EB%8D%B8%20%EA%B5%AC%EC%B6%95)  <br>
+  &nbsp;&nbsp;&nbsp;&nbsp; *• MLOps 기반 제조설비 이상탐지 모델 구축* &nbsp;&nbsp;<sub><em>(Jun. 2022 ~ Dec. 2022)</em></sub> &nbsp; [··· &nbsp; :pushpin:](https://github.com/juunho/Completed_Projects/tree/db83be47d14ddff856bd0da3046100989d13667e/MLOps%20%EA%B8%B0%EB%B0%98%20%EC%A0%9C%EC%A1%B0%EC%84%A4%EB%B9%84%20%EC%9D%B4%EC%83%81%ED%83%90%EC%A7%80%20%EB%AA%A8%EB%8D%B8%20%EA%B5%AC%EC%B6%95)  <br>
 
 </br>
 
 **- Mobigen**
   
-  &nbsp;&nbsp;&nbsp;&nbsp; *빅데이터 플랫폼 개발 및 데이터 분석* <sub><em>(Feb. 2021 ~ Feb. 2022)</em></sub> &nbsp; [··· &nbsp; :pushpin:](https://github.com/juunho/Suwon-2021)  <br>
+  &nbsp;&nbsp;&nbsp;&nbsp; *• 빅데이터 플랫폼 개발 및 데이터 분석* <sub><em>(Feb. 2021 ~ Feb. 2022)</em></sub> &nbsp; [··· &nbsp; :pushpin:](https://github.com/juunho/Suwon-2021)  <br>
+
+ -------
 
 </details>
 
