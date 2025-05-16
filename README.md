@@ -10,8 +10,8 @@
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white">
 <img src="https://img.shields.io/badge/SQL-4169E1?style=flat&logo=postgresql&logoColor=white">
 <img src="https://img.shields.io/badge/Langchain-1C3C3C?style=flat&logo=langchain&logoColor=white">
-<img src="https://img.shields.io/badge/Fastapi-009688?style=flat&logo=fastapi&logoColor=white">
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white">
+<img src="https://img.shields.io/badge/Docker-009688?style=flat&logo=docker&logoColor=white">
+<img src="https://img.shields.io/badge/kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white">
 
 </div>
 
